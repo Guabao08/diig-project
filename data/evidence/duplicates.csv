@@ -1,0 +1,6 @@
+metric,value
+raw_rows,20000
+exact_duplicate_rows_beyond_first,3486
+exact_duplicate_groups,1338
+unique_rows,16514
+max_group_multiplicity,29

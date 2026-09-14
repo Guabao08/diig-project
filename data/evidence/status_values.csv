@@ -1,0 +1,4 @@
+status,bookings,canceled_rate_field,no_show_rate
+Check-Out,12462,0.0,0.0
+Canceled,7348,1.0,0.0
+No-Show,190,1.0,1.0

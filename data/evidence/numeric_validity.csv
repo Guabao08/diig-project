@@ -1,0 +1,16 @@
+field,non_numeric,negative,zero,min,max
+canceled,0,0,12462,0.0,1.0
+advance_time,0,0,1045,0.0,629.0
+arrival_year,0,0,0,2015.0,2017.0
+arrival_week_number,0,0,0,1.0,53.0
+arrival_day_of_month,0,0,0,1.0,31.0
+weekend_stays,0,0,8626,0.0,19.0
+week_stays,0,0,1255,0.0,50.0
+num_adults,0,0,67,0.0,55.0
+num_children,0,0,18555,0.0,3.0
+is_returning,0,0,19340,0.0,1.0
+num_cancellations,0,0,18876,0.0,26.0
+num_not_canceled,0,0,19354,0.0,63.0
+num_changes,0,0,16971,0.0,17.0
+wait_days,0,0,19385,0.0,391.0
+average_daily_rate,0,0,293,0.0,451.5

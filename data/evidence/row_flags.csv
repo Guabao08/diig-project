@@ -1,0 +1,9 @@
+metric,count,share
+raw_rows,20000,1.0
+zero_guest_rows,33,0.00165
+nonpositive_adr_rows,293,0.01465
+zero_stay_rows,105,0.00525
+missing_arrival_date,0,0.0
+missing_status_date,0,0.0
+adr_gt_p99,194,0.0097
+adr_gt_3x_iqr,54,0.0027
